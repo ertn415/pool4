@@ -12,3 +12,7 @@ Responsive bir araba kiralama sitesi gelistirildi.
 # Video
 
 ![](images/CarRentalApp.mp4)
+
+# GIF
+
+![](images/CarRentalApp.gif) 
